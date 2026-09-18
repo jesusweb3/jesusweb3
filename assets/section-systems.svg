@@ -1,14 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="72" viewBox="0 0 900 72" fill="none" role="img" aria-labelledby="title desc">
 <title id="title">02 — SELECTED SYSTEMS</title>
 <desc id="desc">INDEX · 04</desc>
-<style>.run{animation:jw-run 10s cubic-bezier(.5,0,.5,1) infinite}@keyframes jw-run{0%{transform:translateX(0);opacity:0}10%{opacity:1}55%{transform:translateX(371.6px);opacity:1}62%,100%{transform:translateX(371.6px);opacity:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
 <defs><linearGradient id="seg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B7BFF" stop-opacity="0"/><stop offset="1" stop-color="#8B7BFF"/></linearGradient></defs>
 
 <rect x="0.5" y="0.5" width="899" height="71" rx="11.5" fill="#07080A" stroke="#1A1D23"/>
 <text x="28" y="40.6" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#8B7BFF" textLength="16.6" lengthAdjust="spacing">02</text>
 <text x="62" y="43" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" font-weight="500" fill="#F0F2F5" textLength="240" lengthAdjust="spacing">SELECTED SYSTEMS</text>
 <rect x="330" y="35.5" width="427.6" height="1" fill="#262A32"/>
-<rect class="run" x="330" y="35.5" width="64" height="1" fill="url(#seg)" opacity="0"/>
+<rect x="330" y="35.5" width="64" height="1" fill="url(#seg)" opacity="0">
+<animateTransform attributeName="transform" type="translate" values="0 0;371.6 0;371.6 0" keyTimes="0;.55;1" dur="10s" repeatCount="indefinite" calcMode="spline" keySplines=".5 0 .5 1;0 0 1 1"/>
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.1;.55;.62;1" dur="10s" repeatCount="indefinite"/>
+</rect>
 <path d="M765.6 32.5L769.1 36L765.6 39.5L762.1 36Z" fill="#8B7BFF"/>
 <text x="872" y="39.9" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#7D8490" text-anchor="end" textLength="80.4" lengthAdjust="spacing">INDEX · 04</text>
 </svg>

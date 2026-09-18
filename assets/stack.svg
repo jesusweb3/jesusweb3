@@ -1,13 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="308" viewBox="0 0 420 308" fill="none" role="img" aria-labelledby="title desc">
 <title id="title">Stack</title>
 <desc id="desc">LANG: Python, TypeScript; MODELS: PyTorch, LLMs, Local Models; PROVIDERS: Claude, OpenAI; BACKEND: FastAPI, WebSocket; DATA: PostgreSQL, Redis; INFRA: Docker, Linux; MARKETS: Crypto Exchanges, Web3</desc>
-<style>.cur{animation:jw-cur 14s step-end infinite}@keyframes jw-cur{0%{transform:translateY(0px)}14.29%{transform:translateY(33px)}28.57%{transform:translateY(66px)}42.86%{transform:translateY(99px)}57.14%{transform:translateY(132px)}71.43%{transform:translateY(165px)}85.71%{transform:translateY(198px)}100%{transform:translateY(0)}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
 
 <rect x="0.5" y="0.5" width="419" height="307" rx="13.5" fill="#0B0D10" stroke="#1A1D23"/>
 <text x="28" y="42" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" font-weight="600" fill="#F0F2F5" textLength="41.7" lengthAdjust="spacing">STACK</text>
 <text x="392" y="42" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" fill="#7D8490" text-anchor="end" textLength="154.5" lengthAdjust="spacing">SECONDARY TO SYSTEMS</text>
 <path d="M28 62.5H392" stroke="#1A1D23"/>
-<rect class="cur" x="112" y="73" width="2" height="14" fill="#8B7BFF"/>
+<rect x="112" y="73" width="2" height="14" fill="#8B7BFF"><animateTransform attributeName="transform" type="translate" values="0 0;0 33;0 66;0 99;0 132;0 165;0 198" keyTimes="0;0.14;0.29;0.43;0.57;0.71;0.86" dur="14s" repeatCount="indefinite" calcMode="discrete"/></rect>
 <text x="28" y="83.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" fill="#7D8490" textLength="28.8" lengthAdjust="spacing">LANG</text>
 <text x="126" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#F0F2F5">Python<tspan fill="#8B7BFF"> · </tspan>TypeScript</text>
 <text x="28" y="116.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" fill="#7D8490" textLength="43.8" lengthAdjust="spacing">MODELS</text>

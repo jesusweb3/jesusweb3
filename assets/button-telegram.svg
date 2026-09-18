@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="260" height="60" viewBox="0 0 260 60" fill="none" role="img" aria-labelledby="title desc">
 <title id="title">TELEGRAM</title>
 <desc id="desc">Jesus Web3 on TELEGRAM</desc>
-<style>.sh{animation:jw-sh 7s ease-in-out 1.2s infinite}@keyframes jw-sh{0%{transform:translateX(0);opacity:0}15%{opacity:1}55%{transform:translateX(168px);opacity:1}65%,100%{transform:translateX(168px);opacity:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
 <defs><linearGradient id="sg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B7BFF" stop-opacity="0"/><stop offset=".5" stop-color="#8B7BFF"/><stop offset="1" stop-color="#8B7BFF" stop-opacity="0"/></linearGradient></defs>
 
 <rect x="0.5" y="0.5" width="259" height="59" rx="11.5" fill="#0B0D10" stroke="#262A32"/>
@@ -9,5 +8,8 @@
 <path d="M56.5 20V40" stroke="#262A32"/>
 <text x="70" y="34.3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="600" fill="#F0F2F5" textLength="70.2" lengthAdjust="spacing">TELEGRAM</text>
 <path d="M224 36L234 26M227 26H234V33" stroke="#7D8490" stroke-width="1.5" stroke-linecap="square"/>
-<rect class="sh" x="14" y="58.5" width="64" height="1" fill="url(#sg)" opacity="0"/>
+<rect x="14" y="58.5" width="64" height="1" fill="url(#sg)" opacity="0">
+<animateTransform attributeName="transform" type="translate" values="0 0;168 0;168 0" keyTimes="0;.55;1" dur="7s" begin="1.2s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .2 1;0 0 1 1"/>
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.15;.55;.65;1" dur="7s" begin="1.2s" repeatCount="indefinite"/>
+</rect>
 </svg>
