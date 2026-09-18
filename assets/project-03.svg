@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="264" viewBox="0 0 420 264" fill="none" role="img" aria-labelledby="title desc">
-<title id="title">AGENT PLATFORM — AI SYSTEMS · INTERNAL</title>
-<desc id="desc">Control plane for Telegram AI agents: sources, LLM replies, hard limits, audit log and emergency stop. Stack: PYTHON, OPENROUTER, LLM AGENTS.</desc>
-<style>.flk{animation:jw-flk 5s steps(1,end) infinite}@keyframes jw-flk{0%,100%{opacity:1}62%{opacity:.35}66%{opacity:1}70%{opacity:.35}74%{opacity:1}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<title id="title">BASIS ENGINE — TRADING INFRA · RESEARCH</title>
+<desc id="desc">Cross-venue perp basis research across Lighter, Nado and Hyperliquid — execution disabled by design. Stack: TYPESCRIPT, PERP BASIS, EXCHANGE APIS.</desc>
+<style>.core{animation:jw-core 2.4s ease-in-out infinite}@keyframes jw-core{0%,100%{opacity:1}50%{opacity:.25}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
 <defs><linearGradient id="acc" gradientUnits="userSpaceOnUse" x1="28" y1="0" x2="220" y2="0"><stop offset="0" stop-color="#8B7BFF"/><stop offset="1" stop-color="#8B7BFF" stop-opacity="0"/></linearGradient></defs>
 
 <rect x="0.5" y="0.5" width="419" height="263" rx="13.5" fill="#0B0D10" stroke="#1A1D23"/>
 <path d="M28 0.5H220" stroke="url(#acc)"/>
 <text x="28" y="42" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="600" fill="#8B7BFF" textLength="14.2" lengthAdjust="spacing">03</text>
-<text x="54" y="42" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#7D8490" textLength="80.4" lengthAdjust="spacing">AI SYSTEMS</text>
-<rect x="290.3" y="25.5" width="101.2" height="25" rx="12.5" fill="#101216" stroke="#8B7BFF" stroke-opacity=".3"/>
-<path class="flk" d="M305.8 34L309.8 38L305.8 42L301.8 38Z" stroke="#8B7BFF" stroke-width="1.3"/>
-<text x="317.8" y="41.7" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" font-weight="600" fill="#7D8490" textLength="60.2" lengthAdjust="spacing">INTERNAL</text>
-<text x="28" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" letter-spacing="2" fill="#F0F2F5">AGENT PLATFORM</text>
-<text x="28" y="134" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#7D8490">Control plane for Telegram AI agents:</text>
-<text x="28" y="157" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#7D8490">sources, LLM replies, hard limits,</text>
-<text x="28" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#7D8490">audit log and emergency stop.</text>
+<text x="54" y="42" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#7D8490" textLength="105" lengthAdjust="spacing">TRADING INFRA</text>
+<rect x="290.3" y="25.5" width="101.2" height="25" rx="12.5" fill="#101216" stroke="#6CA6FF" stroke-opacity=".3"/>
+<circle cx="305.8" cy="38" r="3.6" stroke="#6CA6FF" stroke-width="1.4"/><circle class="core" cx="305.8" cy="38" r="1.3" fill="#6CA6FF"/>
+<text x="317.8" y="41.7" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" font-weight="600" fill="#6CA6FF" textLength="60.2" lengthAdjust="spacing">RESEARCH</text>
+<text x="28" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" letter-spacing="2" fill="#F0F2F5">BASIS ENGINE</text>
+<text x="28" y="134" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#7D8490">Cross-venue perp basis research across</text>
+<text x="28" y="157" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#7D8490">Lighter, Nado and Hyperliquid —</text>
+<text x="28" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#7D8490">execution disabled by design.</text>
 <path d="M28 202.5H392" stroke="#1A1D23"/>
-<rect x="28.5" y="220.5" width="61.8" height="23" rx="6" fill="#101216" stroke="#262A32"/><text x="38" y="235.8" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" fill="#7D8490" textLength="42.8" lengthAdjust="spacing">PYTHON</text>
-<rect x="99.3" y="220.5" width="91" height="23" rx="6" fill="#101216" stroke="#262A32"/><text x="108.8" y="235.8" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" fill="#7D8490" textLength="72" lengthAdjust="spacing">OPENROUTER</text>
-<rect x="199.3" y="220.5" width="91" height="23" rx="6" fill="#101216" stroke="#262A32"/><text x="208.8" y="235.8" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" fill="#7D8490" textLength="72" lengthAdjust="spacing">LLM AGENTS</text>
+<rect x="28.5" y="220.5" width="91" height="23" rx="6" fill="#101216" stroke="#262A32"/><text x="38" y="235.8" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" fill="#7D8490" textLength="72" lengthAdjust="spacing">TYPESCRIPT</text>
+<rect x="128.5" y="220.5" width="91" height="23" rx="6" fill="#101216" stroke="#262A32"/><text x="138" y="235.8" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" fill="#7D8490" textLength="72" lengthAdjust="spacing">PERP BASIS</text>
+<rect x="228.5" y="220.5" width="112.9" height="23" rx="6" fill="#101216" stroke="#262A32"/><text x="238" y="235.8" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" fill="#7D8490" textLength="93.9" lengthAdjust="spacing">EXCHANGE APIS</text>
 </svg>
