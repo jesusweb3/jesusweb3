@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">LOCUS — invite-only trading platform</title>
+<desc id="desc">One system for research, execution and 24/7 operations. TypeScript, NestJS, React, PostgreSQL, Redis, Socket.IO, Docker.</desc>
+<defs>
+<radialGradient id="glow" cx="600" cy="300" r="620" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#8B7BFF" stop-opacity=".16"/><stop offset=".55" stop-color="#8B7BFF" stop-opacity=".04"/><stop offset="1" stop-color="#8B7BFF" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#FFFFFF" fill-opacity=".09"/></pattern>
+<radialGradient id="dotsFade" cx="600" cy="340" r="760" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#000000"/></radialGradient>
+<mask id="dotsMask" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="1200"><rect width="1200" height="1200" fill="url(#dotsFade)"/></mask>
+<clipPath id="wmClip"><rect x="-6" y="-2.5" width="236" height="51"/></clipPath>
+<linearGradient id="accent" gradientUnits="userSpaceOnUse" x1="88" y1="0" x2="520" y2="0"><stop offset="0" stop-color="#8B7BFF"/><stop offset="1" stop-color="#8B7BFF" stop-opacity="0"/></linearGradient></defs>
+
+<rect width="1200" height="1200" fill="#07080A"/>
+<rect width="1200" height="1200" fill="url(#glow)"/>
+<rect width="1200" height="1200" fill="url(#dots)" mask="url(#dotsMask)"/>
+
+<g><path d="M96 103.6L96 94M89.6 110L80 110M102.4 110L112 110M96 116.4L96 135.6" stroke="#7D8490" stroke-width="2"/><path d="M96 106.8L99.2 110L96 113.2L92.8 110Z" fill="#8B7BFF"/></g>
+<text x="128" y="117" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" fill="#7D8490" textLength="274.2" lengthAdjust="spacing">JW3 — SELECTED SYSTEM</text>
+<text x="1112" y="117" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" font-weight="600" fill="#8B7BFF" text-anchor="end" textLength="21.4" lengthAdjust="spacing">01</text>
+
+<g transform="translate(88 208) scale(2.95)"><g clip-path="url(#wmClip)"><path d="M0 0V46H28M52 0H70A8 8 0 0 1 78 8V38A8 8 0 0 1 70 46H52A8 8 0 0 1 44 38V8A8 8 0 0 1 52 0ZM128 12V8A8 8 0 0 0 120 0H102A8 8 0 0 0 94 8V38A8 8 0 0 0 102 46H120A8 8 0 0 0 128 38V34M144 0V38A8 8 0 0 0 152 46H168A8 8 0 0 0 176 38V0M224 0H200A8 8 0 0 0 192 8V15A8 8 0 0 0 200 23H216A8 8 0 0 1 224 31V38A8 8 0 0 1 216 46H192" stroke="#F0F2F5" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g></g>
+<text x="90" y="420" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="24" fill="#8B7BFF" textLength="554.4" lengthAdjust="spacing">INVITE-ONLY TRADING PLATFORM</text>
+<text x="90" y="466" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#7D8490">One system for research, execution and 24/7 operations.</text>
+
+<path d="M88 520H1112" stroke="#1A1D23"/>
+<text x="88" y="566" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#7D8490" textLength="120" lengthAdjust="spacing">ARCHITECTURE</text>
+
+
+<rect x="88.5" y="596.5" width="189" height="63" rx="11" fill="#0B0D10" stroke="#262A32" stroke-opacity="1"/>
+<text x="183" y="624" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="600" fill="#F0F2F5" text-anchor="middle" textLength="104.4" lengthAdjust="spacing">WEB CLIENT</text>
+<text x="183" y="646" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#7D8490" text-anchor="middle" textLength="99.6" lengthAdjust="spacing">React · Vite</text>
+
+<rect x="358.5" y="596.5" width="189" height="63" rx="11" fill="#101216" stroke="#8B7BFF" stroke-opacity="0.5"/>
+<text x="453" y="624" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="600" fill="#F0F2F5" text-anchor="middle" textLength="30.2" lengthAdjust="spacing">API</text>
+<text x="453" y="646" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#7D8490" text-anchor="middle" textLength="99.6" lengthAdjust="spacing">NestJS · Zod</text>
+
+<rect x="628.5" y="596.5" width="189" height="63" rx="11" fill="#0B0D10" stroke="#262A32" stroke-opacity="1"/>
+<text x="723" y="624" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="600" fill="#F0F2F5" text-anchor="middle" textLength="83.2" lengthAdjust="spacing">EXECUTOR</text>
+<text x="723" y="646" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#7D8490" text-anchor="middle" textLength="82.8" lengthAdjust="spacing">private WS</text>
+
+<rect x="898.5" y="596.5" width="213" height="63" rx="11" fill="#0B0D10" stroke="#262A32" stroke-opacity="1"/>
+<text x="1005" y="624" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="600" fill="#F0F2F5" text-anchor="middle" textLength="93.8" lengthAdjust="spacing">EXCHANGES</text>
+<text x="1005" y="646" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#7D8490" text-anchor="middle" textLength="124.8" lengthAdjust="spacing">market + orders</text>
+<path d="M278 628H358M548 628H628M818 628H898" stroke="#262A32" stroke-width="1.4"/>
+<path d="M318 624.6L321.4 628L318 631.4L314.6 628Z" fill="#8B7BFF"/><path d="M588 624.6L591.4 628L588 631.4L584.6 628Z" fill="#8B7BFF"/><path d="M858 624.6L861.4 628L858 631.4L854.6 628Z" fill="#8B7BFF"/>
+
+
+<rect x="358.5" y="740.5" width="189" height="63" rx="11" fill="#0B0D10" stroke="#262A32" stroke-opacity="1"/>
+<text x="453" y="768" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="600" fill="#F0F2F5" text-anchor="middle" textLength="83.2" lengthAdjust="spacing">SCREENER</text>
+<text x="453" y="790" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#7D8490" text-anchor="middle" textLength="116.4" lengthAdjust="spacing">own data plane</text>
+
+<rect x="628.5" y="740.5" width="189" height="63" rx="11" fill="#0B0D10" stroke="#262A32" stroke-opacity="1"/>
+<text x="723" y="768" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="600" fill="#F0F2F5" text-anchor="middle" textLength="40.8" lengthAdjust="spacing">DATA</text>
+<text x="723" y="790" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#7D8490" text-anchor="middle" textLength="150" lengthAdjust="spacing">PostgreSQL · Redis</text>
+<path d="M453 660H453V740H453" stroke="#262A32" stroke-width="1.4"/><path d="M453 696.6L456.4 700L453 703.4L449.6 700Z" fill="#8B7BFF"/>
+<path d="M723 660H723V740H723" stroke="#262A32" stroke-width="1.4"/><path d="M723 696.6L726.4 700L723 703.4L719.6 700Z" fill="#8B7BFF"/>
+
+<path d="M88 872H1112" stroke="#1A1D23"/>
+<path d="M93 911L98 916L93 921L88 916Z" fill="#8B7BFF"/>
+<text x="110" y="922" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="600" fill="#F0F2F5" textLength="149.4" lengthAdjust="spacing">24/7 EXECUTION</text>
+<text x="110" y="950" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#7D8490">strategy runtimes that keep running</text><path d="M438 911L443 916L438 921L433 916Z" fill="#8B7BFF"/>
+<text x="455" y="922" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="600" fill="#F0F2F5" textLength="203.4" lengthAdjust="spacing">KEY CUSTODY &amp; ROLES</text>
+<text x="455" y="950" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#7D8490">invite-only access, audited actions</text><path d="M783 911L788 916L783 921L778 916Z" fill="#8B7BFF"/>
+<text x="800" y="922" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="600" fill="#F0F2F5" textLength="149.4" lengthAdjust="spacing">TREND RESEARCH</text>
+<text x="800" y="950" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#7D8490">screener with its own data plane</text>
+
+<path d="M88 1034H1112" stroke="#1A1D23"/>
+<text x="88" y="1090" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#7D8490" textLength="647.6" lengthAdjust="spacing">TYPESCRIPT · NESTJS · REACT · POSTGRESQL · REDIS · SOCKET.IO · DOCKER</text>
+<g><path d="M986 1079.2L986 1072M981.2 1084L974 1084M990.8 1084L998 1084M986 1088.8L986 1103.2" stroke="#7D8490" stroke-width="1.5"/><path d="M986 1081.6L988.4 1084L986 1086.4L983.6 1084Z" fill="#8B7BFF"/></g>
+<text x="1112" y="1090" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#7D8490" text-anchor="end" textLength="102" lengthAdjust="spacing">JESUS WEB3</text>
+</svg>
