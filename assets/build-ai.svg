@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="216" viewBox="0 0 420 216" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">AI SYSTEMS</title>
+<desc id="desc">Agents, local LLM infrastructure, orchestration, RAG, autonomous workflows.</desc>
+<style>.nd{animation:jw-nd 6s ease-in-out infinite}.n1{animation-delay:1.5s}.n2{animation-delay:3s}.n3{animation-delay:4.5s}@keyframes jw-nd{0%,40%,100%{opacity:0}12%{opacity:1}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+
+<rect x="0.5" y="0.5" width="419" height="215" rx="13.5" fill="#0B0D10" stroke="#1A1D23"/>
+<text x="28" y="45" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="600" fill="#8B7BFF" textLength="15.4" lengthAdjust="spacing">01</text>
+<path d="M52 41.5H76" stroke="#262A32"/>
+
+<path d="M337.5 46.2L313.5 32.93M358.5 46.2L382.5 32.93M358.5 57.8L382.5 71.07M337.5 57.8L313.5 71.07" stroke="#262A32"/>
+<circle cx="310" cy="31" r="3" fill="#0B0D10" stroke="#7D8490" stroke-width="1.2"/><circle cx="386" cy="31" r="3" fill="#0B0D10" stroke="#7D8490" stroke-width="1.2"/><circle cx="386" cy="73" r="3" fill="#0B0D10" stroke="#7D8490" stroke-width="1.2"/><circle cx="310" cy="73" r="3" fill="#0B0D10" stroke="#7D8490" stroke-width="1.2"/>
+<circle class="nd n0" cx="310" cy="31" r="3.4" fill="#8B7BFF" opacity="0"/><circle class="nd n1" cx="386" cy="31" r="3.4" fill="#8B7BFF" opacity="0"/><circle class="nd n2" cx="386" cy="73" r="3.4" fill="#8B7BFF" opacity="0"/><circle class="nd n3" cx="310" cy="73" r="3.4" fill="#8B7BFF" opacity="0"/>
+<path d="M348 43L357 52L348 61L339 52Z" stroke="#8B7BFF" stroke-opacity=".4"/>
+<path d="M348 47.5L352.5 52L348 56.5L343.5 52Z" fill="#8B7BFF"/>
+<text x="28" y="133" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" letter-spacing="0.8" fill="#F0F2F5">AI SYSTEMS</text>
+<text x="28" y="165" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#7D8490">Agents, local LLM infrastructure,</text>
+<text x="28" y="188" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#7D8490">orchestration, RAG, autonomous workflows.</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="216" viewBox="0 0 420 216" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">QUANT</title>
+<desc id="desc">Research pipelines, backtesting, market microstructure, systematic trading.</desc>
+<style>.curve{animation:jw-draw 9s ease-in-out infinite}.area{animation:jw-area 9s ease-in-out infinite}.tip{animation:jw-tip 9s ease-in-out infinite}@keyframes jw-draw{0%{stroke-dashoffset:113;opacity:1}45%,88%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}@keyframes jw-area{0%,25%{opacity:0}55%,88%{opacity:1}100%{opacity:0}}@keyframes jw-tip{0%,42%{opacity:0}48%,88%{opacity:1}100%{opacity:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs><linearGradient id="qa" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8B7BFF" stop-opacity=".24"/><stop offset="1" stop-color="#8B7BFF" stop-opacity="0"/></linearGradient></defs>
+
+<rect x="0.5" y="0.5" width="419" height="215" rx="13.5" fill="#0B0D10" stroke="#1A1D23"/>
+<text x="28" y="45" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="600" fill="#8B7BFF" textLength="15.4" lengthAdjust="spacing">02</text>
+<path d="M52 41.5H76" stroke="#262A32"/>
+
+<path d="M304 62.5H392" stroke="#262A32" stroke-dasharray="2 4"/>
+<path class="area" d="M304 68L312 63L320 65L328 57L336 60L344 52L352 55L360 47L368 50L376 41L384 44L392 34L392 78L304 78Z" fill="url(#qa)"/>
+<path class="curve" d="M304 68L312 63L320 65L328 57L336 60L344 52L352 55L360 47L368 50L376 41L384 44L392 34" stroke="#8B7BFF" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="113 113"/>
+<circle class="tip" cx="392" cy="34" r="2.8" fill="#8B7BFF"/>
+<text x="28" y="133" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" letter-spacing="0.8" fill="#F0F2F5">QUANT</text>
+<text x="28" y="165" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#7D8490">Research pipelines, backtesting, market</text>
+<text x="28" y="188" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#7D8490">microstructure, systematic trading.</text>
+</svg>

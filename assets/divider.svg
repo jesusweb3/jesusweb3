@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="28" viewBox="0 0 900 28" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Divider</title>
+<desc id="desc">Jesus Web3 vertex divider</desc>
+<style>.l{animation:jw-l 9s ease-in-out infinite}.r{animation:jw-r 9s ease-in-out infinite}@keyframes jw-l{0%{transform:translateX(0);opacity:0}15%{opacity:1}65%,100%{transform:translateX(-300px);opacity:0}}@keyframes jw-r{0%{transform:translateX(0);opacity:0}15%{opacity:1}65%,100%{transform:translateX(300px);opacity:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs>
+<linearGradient id="gl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7D8490" stop-opacity="0"/><stop offset="1" stop-color="#7D8490" stop-opacity=".5"/></linearGradient>
+<linearGradient id="gr" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7D8490" stop-opacity=".5"/><stop offset="1" stop-color="#7D8490" stop-opacity="0"/></linearGradient>
+<linearGradient id="gp" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B7BFF" stop-opacity="0"/><stop offset=".5" stop-color="#8B7BFF"/><stop offset="1" stop-color="#8B7BFF" stop-opacity="0"/></linearGradient></defs>
+
+<rect x="40" y="10.5" width="376" height="1" fill="url(#gl)"/>
+<rect x="484" y="10.5" width="376" height="1" fill="url(#gr)"/>
+<rect class="l" x="396" y="10.5" width="36" height="1" fill="url(#gp)" opacity="0"/>
+<rect class="r" x="468" y="10.5" width="36" height="1" fill="url(#gp)" opacity="0"/>
+<g><path d="M450 7L450 1M446 11L440 11M454 11L460 11M450 15L450 27" stroke="#7D8490" stroke-width="1"/><path d="M450 9L452 11L450 13L448 11Z" fill="#8B7BFF"/></g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="216" viewBox="0 0 420 216" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">WEB3 / AUTOMATION</title>
+<desc id="desc">Blockchain systems, bots, automation, monitoring, infrastructure.</desc>
+<style>.pkt{animation:jw-pkt 6s ease-in-out infinite}@keyframes jw-pkt{0%{transform:translateX(0);opacity:0}10%{opacity:1}75%{transform:translateX(74px);opacity:1}85%,100%{transform:translateX(74px);opacity:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+
+<rect x="0.5" y="0.5" width="419" height="215" rx="13.5" fill="#0B0D10" stroke="#1A1D23"/>
+<text x="28" y="45" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="600" fill="#8B7BFF" textLength="15.4" lengthAdjust="spacing">04</text>
+<path d="M52 41.5H76" stroke="#262A32"/>
+
+<path d="M318 52H328.67M342.67 52H353.33M367.33 52H378" stroke="#262A32"/>
+<rect x="304.6" y="45.6" width="12.8" height="12.8" rx="3" fill="#0B0D10" stroke="#7D8490" stroke-width="1.2"/><rect x="309" y="50" width="4" height="4" rx="1" fill="#7D8490" opacity=".6"/><rect x="329.27" y="45.6" width="12.8" height="12.8" rx="3" fill="#0B0D10" stroke="#7D8490" stroke-width="1.2"/><rect x="333.67" y="50" width="4" height="4" rx="1" fill="#7D8490" opacity=".6"/><rect x="353.93" y="45.6" width="12.8" height="12.8" rx="3" fill="#0B0D10" stroke="#7D8490" stroke-width="1.2"/><rect x="358.33" y="50" width="4" height="4" rx="1" fill="#7D8490" opacity=".6"/><rect x="378" y="45" width="14" height="14" rx="3" fill="#8B7BFF"/><rect x="383" y="50" width="4" height="4" rx="1" fill="#0B0D10"/>
+<circle class="pkt" cx="311" cy="52" r="2.6" fill="#B3A8FF" opacity="0"/>
+<text x="28" y="133" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" letter-spacing="0.8" fill="#F0F2F5">WEB3 / AUTOMATION</text>
+<text x="28" y="165" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#7D8490">Blockchain systems, bots, automation,</text>
+<text x="28" y="188" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#7D8490">monitoring, infrastructure.</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="60" viewBox="0 0 260 60" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">X / TWITTER</title>
+<desc id="desc">Jesus Web3 on X / TWITTER</desc>
+<style>.sh{animation:jw-sh 7s ease-in-out 0s infinite}@keyframes jw-sh{0%{transform:translateX(0);opacity:0}15%{opacity:1}55%{transform:translateX(168px);opacity:1}65%,100%{transform:translateX(168px);opacity:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs><linearGradient id="sg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B7BFF" stop-opacity="0"/><stop offset=".5" stop-color="#8B7BFF"/><stop offset="1" stop-color="#8B7BFF" stop-opacity="0"/></linearGradient></defs>
+
+<rect x="0.5" y="0.5" width="259" height="59" rx="11.5" fill="#0B0D10" stroke="#262A32"/>
+<g transform="translate(22 20) scale(.8333)"><path fill="#F0F2F5" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></g>
+<path d="M56.5 20V40" stroke="#262A32"/>
+<text x="70" y="34.3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="600" fill="#F0F2F5" textLength="97.2" lengthAdjust="spacing">X / TWITTER</text>
+<path d="M224 36L234 26M227 26H234V33" stroke="#7D8490" stroke-width="1.5" stroke-linecap="square"/>
+<rect class="sh" x="14" y="58.5" width="64" height="1" fill="url(#sg)" opacity="0"/>
+</svg>
