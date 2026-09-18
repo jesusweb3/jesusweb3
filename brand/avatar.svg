@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="460" viewBox="0 0 460 460" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">The Vertex</title>
+<desc id="desc">Jesus Web3 mark</desc>
+<defs>
+<radialGradient id="glow" cx="230" cy="230" r="240" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#8B7BFF" stop-opacity=".18"/><stop offset=".5" stop-color="#8B7BFF" stop-opacity=".05"/><stop offset="1" stop-color="#8B7BFF" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#FFFFFF" fill-opacity=".1"/></pattern>
+<radialGradient id="dotsFade" cx="230" cy="230" r="324" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#000000"/></radialGradient>
+<linearGradient id="core" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8B7BFF"/><stop offset="1" stop-color="#6CA6FF"/></linearGradient>
+<filter id="soft" x="-2" y="-2" width="5" height="5"><feGaussianBlur stdDeviation="16"/></filter>
+<mask id="dotsMask" maskUnits="userSpaceOnUse" x="0" y="0" width="460" height="460"><rect width="460" height="460" fill="url(#dotsFade)"/></mask></defs>
+
+<rect width="460" height="460" fill="#07080A"/>
+<rect width="460" height="460" fill="url(#glow)"/>
+<rect width="460" height="460" fill="url(#dots)" mask="url(#dotsMask)"/>
+<circle cx="230" cy="230" r="186" stroke="#262A32" stroke-width="1.4"/>
+<circle cx="230" cy="230" r="150" stroke="#7D8490" stroke-opacity=".35" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="0 9"/>
+<circle cx="230" cy="191" r="58" fill="#8B7BFF" opacity=".5" filter="url(#soft)"/>
+<g><path d="M230 139L230 61M178 191L100 191M282 191L360 191M230 243L230 399" stroke="#F0F2F5" stroke-width="7"/><path d="M230 165L256 191L230 217L204 191Z" fill="url(#core)"/><path d="M230 50.08L240.92 61L230 71.92L219.08 61ZM100 180.08L110.92 191L100 201.92L89.08 191ZM360 180.08L370.92 191L360 201.92L349.08 191ZM230 388.08L240.92 399L230 409.92L219.08 399Z" fill="#F0F2F5"/></g>
+</svg>

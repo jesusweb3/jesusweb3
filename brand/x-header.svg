@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">JESUS WEB3</title>
+<desc id="desc">AI · Quant · Crypto systems</desc>
+<defs>
+<radialGradient id="glow" cx="750" cy="214" r="430" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#8B7BFF" stop-opacity=".18"/><stop offset=".5" stop-color="#8B7BFF" stop-opacity=".05"/><stop offset="1" stop-color="#8B7BFF" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#FFFFFF" fill-opacity=".1"/></pattern>
+<radialGradient id="dotsFade" cx="750" cy="214" r="580.5" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#000000"/></radialGradient>
+<linearGradient id="core" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8B7BFF"/><stop offset="1" stop-color="#6CA6FF"/></linearGradient>
+<filter id="soft" x="-2" y="-2" width="5" height="5"><feGaussianBlur stdDeviation="16"/></filter>
+<mask id="dotsMask" maskUnits="userSpaceOnUse" x="0" y="0" width="1500" height="500"><rect width="1500" height="500" fill="url(#dotsFade)"/></mask>
+<clipPath id="wmClip"><rect x="-6" y="-2.5" width="461" height="51"/></clipPath>
+<linearGradient id="rule" gradientUnits="userSpaceOnUse" x1="250" y1="0" x2="1250" y2="0"><stop offset="0" stop-color="#7D8490" stop-opacity="0"/><stop offset=".5" stop-color="#7D8490" stop-opacity=".45"/><stop offset="1" stop-color="#7D8490" stop-opacity="0"/></linearGradient></defs>
+
+<rect width="1500" height="500" fill="#07080A"/>
+<rect width="1500" height="500" fill="url(#glow)"/>
+<rect width="1500" height="500" fill="url(#dots)" mask="url(#dotsMask)"/>
+<path d="M343 110H361M352 101V119M1139 132H1157M1148 123V141M1231 330H1249M1240 321V339M291 352H309M300 343V361M461 74H479M470 65V83M1021 404H1039M1030 395V413" stroke="#7D8490" stroke-opacity=".22"/>
+<rect x="250" y="154" width="1000" height="1" fill="url(#rule)"/>
+<g><path d="M750 147.2L750 137M743.2 154L733 154M756.8 154L767 154M750 160.8L750 181.2" stroke="#7D8490" stroke-width="2"/><path d="M750 150.6L753.4 154L750 157.4L746.6 154Z" fill="#8B7BFF"/></g>
+<g transform="translate(446.92 202) scale(1.35)"><g clip-path="url(#wmClip)"><path d="M30 0V38A8 8 0 0 1 22 46H8A8 8 0 0 1 0 38V33M75 0H46V46H75M46 23H71M123 0H99A8 8 0 0 0 91 8V15A8 8 0 0 0 99 23H115A8 8 0 0 1 123 31V38A8 8 0 0 1 115 46H91M139 0V38A8 8 0 0 0 147 46H163A8 8 0 0 0 171 38V0M219 0H195A8 8 0 0 0 187 8V15A8 8 0 0 0 195 23H211A8 8 0 0 1 219 31V38A8 8 0 0 1 211 46H187M259 0L270 46L284 12L298 46L309 0M354 0H325V46H354M325 23H350M370 46V0H391A8 8 0 0 1 399 8V15A8 8 0 0 1 391 23H370M370 23H394A8 8 0 0 1 402 31V38A8 8 0 0 1 394 46H370M418 0H438A8 8 0 0 1 446 8V15A8 8 0 0 1 438 23H428M438 23H441A8 8 0 0 1 449 31V38A8 8 0 0 1 441 46H418" stroke="#F0F2F5" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g></g>
+<text x="750" y="320" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="22" fill="#F0F2F5" text-anchor="middle" textLength="538.4" lengthAdjust="spacing">AI<tspan fill="#8B7BFF"> · </tspan>QUANT<tspan fill="#8B7BFF"> · </tspan>CRYPTO SYSTEMS</text>
+<text x="750" y="366" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" fill="#F0F2F5" text-anchor="middle" textLength="632.4" lengthAdjust="spacing" opacity="0.6">building systems that research, trade and operate on their own</text>
+<text x="750" y="420" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#7D8490" text-anchor="middle" textLength="390.6" lengthAdjust="spacing">github.com/jesusweb3 · t.me/jesusweb3</text>
+</svg>
