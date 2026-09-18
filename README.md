@@ -29,15 +29,14 @@
 </p>
 
 <p align="center">
-  <img src="./assets/section-systems.svg" width="100%" alt="02 — Selected systems" />
+  <img src="./assets/section-systems.svg?v=2" width="100%" alt="02 — Selected systems" />
 </p>
 
 <p align="center">
-  <img src="./assets/project-01.svg" width="420" alt="LOCUS — Trading platform · Active. Invite-only trading platform: API, 24/7 execution plane, strategy runtimes and a trend-channel research screener." />
-  <img src="./assets/project-02.svg" width="420" alt="STRATLAB — Quant · Research. Web platform for systematic strategy research and backtesting: data, runs, metrics and result analysis." />
-  <img src="./assets/project-03.svg" width="420" alt="BASIS ENGINE — Trading infra · Research. Cross-venue perp basis research across Lighter, Nado and Hyperliquid; execution disabled by design." />
-  <img src="./assets/project-04.svg" width="420" alt="AGENT PLATFORM — AI systems · Internal. Control plane for Telegram AI agents: sources, LLM replies, hard limits, audit log and emergency stop." />
-  <img src="./assets/project-05.svg" width="420" alt="WHALE TRACKER — Onchain monitoring · Private. Hyperliquid whale tracking: realtime trade feed, position state and one alert per trade with its full history." />
+  <img src="./assets/project-01.svg?v=2" width="420" alt="LOCUS — Trading platform · Active. Invite-only trading platform: API, 24/7 execution plane, strategy runtimes and a trend-channel research screener." />
+  <img src="./assets/project-02.svg?v=2" width="420" alt="STRATLAB — Quant · Research. Web platform for systematic strategy research and backtesting: data, runs, metrics and result analysis." />
+  <img src="./assets/project-03.svg?v=2" width="420" alt="BASIS ENGINE — Trading infra · Research. Cross-venue perp basis research across Lighter, Nado and Hyperliquid; execution disabled by design." />
+  <img src="./assets/project-04.svg?v=2" width="420" alt="AGENT PLATFORM — AI systems · Internal. Control plane for Telegram AI agents: sources, LLM replies, hard limits, audit log and emergency stop." />
 </p>
 
 <p align="center">
