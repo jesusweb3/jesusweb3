@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1320" height="880" viewBox="0 0 1320 880" fill="none" role="img" aria-labelledby="title desc">
 <title id="title">Telegram-бот с ИИ, API и автоматизацией</title>
-<desc id="desc">Разработка Telegram-ботов: сценарии, интеграции с API и платежами, ИИ-ответы, хостинг и работа 24/7.</desc>
+<desc id="desc">Разработка Telegram-ботов: автоматизация и интеграции, ИИ-ответы, торговые боты для бирж, хостинг и работа 24/7.</desc>
 <defs>
 <radialGradient id="glow" cx="1055" cy="430" r="470" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#8B7BFF" stop-opacity=".2"/><stop offset=".55" stop-color="#8B7BFF" stop-opacity=".05"/><stop offset="1" stop-color="#8B7BFF" stop-opacity="0"/></radialGradient>
 <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1.1" fill="#FFFFFF" fill-opacity=".1"/></pattern>
@@ -24,13 +24,13 @@
 <text x="132" y="106" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="23" fill="#7D8490" textLength="375" lengthAdjust="spacing">JW3 — TELEGRAM SYSTEMS</text>
 
 <text x="72" y="312" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="128" font-weight="700" letter-spacing="-2" fill="#F0F2F5">TELEGRAM-БОТ</text>
-<text x="76" y="388" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="38" fill="#F0F2F5" textLength="708.2" lengthAdjust="spacing">ИИ<tspan fill="#8B7BFF"> · </tspan>API<tspan fill="#8B7BFF"> · </tspan>АВТОМАТИЗАЦИЯ</text>
+<text x="76" y="388" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="38" fill="#F0F2F5" textLength="559.2" lengthAdjust="spacing">ИИ<tspan fill="#8B7BFF"> · </tspan>API<tspan fill="#8B7BFF"> · </tspan>ТРЕЙДИНГ</text>
 
 <path d="M72 452H820" stroke="#1A1D23" stroke-width="1.6"/>
-<path d="M82 513L91 522L82 531L73 522Z" fill="#8B7BFF"/><text x="116" y="534" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" fill="#7D8490">Сценарии, интеграции, платежи</text><path d="M82 585L91 594L82 603L73 594Z" fill="#8B7BFF"/><text x="116" y="606" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" fill="#F0F2F5">ИИ-ответы: OpenAI, Claude</text><path d="M82 657L91 666L82 675L73 666Z" fill="#8B7BFF"/><text x="116" y="678" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" fill="#7D8490">Хостинг и работа 24/7</text>
+<path d="M82 499L91 508L82 517L73 508Z" fill="#8B7BFF"/><text x="116" y="520" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="33" fill="#7D8490">Автоматизация: интеграции, платежи</text><path d="M82 565L91 574L82 583L73 574Z" fill="#8B7BFF"/><text x="116" y="586" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="33" fill="#7D8490">ИИ-ответы: OpenAI, Claude</text><path d="M82 631L91 640L82 649L73 640Z" fill="#8B7BFF"/><text x="116" y="652" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="33" fill="#F0F2F5">Трейдинг: биржи, сигналы, ордера</text><path d="M82 697L91 706L82 715L73 706Z" fill="#8B7BFF"/><text x="116" y="718" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="33" fill="#7D8490">Хостинг и работа 24/7</text>
 
 <path d="M72 756H1248" stroke="#1A1D23" stroke-width="1.6"/>
-<text x="72" y="822" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="24" fill="#7D8490" textLength="606.4" lengthAdjust="spacing">PYTHON · AIOGRAM · TYPESCRIPT · DOCKER</text>
+<text x="72" y="822" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="24" fill="#7D8490" textLength="590.4" lengthAdjust="spacing">PYTHON · AIOGRAM · WEBSOCKET · DOCKER</text>
 <g><path d="M1036 806L1036 794M1028 814L1016 814M1044 814L1056 814M1036 822L1036 846" stroke="#7D8490" stroke-width="2.4"/><path d="M1036 810L1040 814L1036 818L1032 814Z" fill="#8B7BFF"/></g>
 <text x="1248" y="822" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="24" fill="#7D8490" text-anchor="end" textLength="171" lengthAdjust="spacing">JESUS WEB3</text>
 </svg>
