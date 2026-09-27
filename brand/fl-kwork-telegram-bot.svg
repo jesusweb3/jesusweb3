@@ -1,59 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1320" height="880" viewBox="0 0 1320 880" fill="none" role="img" aria-labelledby="title desc">
 <title id="title">Telegram-бот с ИИ, API и автоматизацией</title>
-<desc id="desc">Разработка Telegram-ботов: сценарии, интеграции с API и платежами, ИИ-ответы, хостинг и мониторинг 24/7.</desc>
+<desc id="desc">Разработка Telegram-ботов: сценарии, интеграции с API и платежами, ИИ-ответы, хостинг и работа 24/7.</desc>
 <defs>
-<radialGradient id="glow" cx="1000" cy="380" r="620" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#8B7BFF" stop-opacity=".17"/><stop offset=".55" stop-color="#8B7BFF" stop-opacity=".045"/><stop offset="1" stop-color="#8B7BFF" stop-opacity="0"/></radialGradient>
-<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#FFFFFF" fill-opacity=".09"/></pattern>
-<radialGradient id="dotsFade" cx="1000" cy="400" r="700" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#000000"/></radialGradient>
+<radialGradient id="glow" cx="1055" cy="430" r="470" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#8B7BFF" stop-opacity=".2"/><stop offset=".55" stop-color="#8B7BFF" stop-opacity=".05"/><stop offset="1" stop-color="#8B7BFF" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1.1" fill="#FFFFFF" fill-opacity=".1"/></pattern>
+<radialGradient id="dotsFade" cx="1055" cy="430" r="560" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#000000"/></radialGradient>
 <mask id="dotsMask" maskUnits="userSpaceOnUse" x="0" y="0" width="1320" height="880"><rect width="1320" height="880" fill="url(#dotsFade)"/></mask>
 <linearGradient id="core" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8B7BFF"/><stop offset="1" stop-color="#6CA6FF"/></linearGradient>
-<filter id="soft" x="-2" y="-2" width="5" height="5"><feGaussianBlur stdDeviation="22"/></filter></defs>
+<filter id="soft" x="-2" y="-2" width="5" height="5"><feGaussianBlur stdDeviation="26"/></filter></defs>
 
 <rect width="1320" height="880" fill="#07080A"/>
 <rect width="1320" height="880" fill="url(#glow)"/>
 <rect width="1320" height="880" fill="url(#dots)" mask="url(#dotsMask)"/>
 
-<g><path d="M80 84L80 75M74 90L65 90M86 90L95 90M80 96L80 114" stroke="#7D8490" stroke-width="1.9"/><path d="M80 87L83 90L80 93L77 90Z" fill="#8B7BFF"/></g>
-<text x="112" y="97" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" fill="#7D8490" textLength="270" lengthAdjust="spacing">JW3 — TELEGRAM SYSTEMS</text>
-<text x="1248" y="97" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#7D8490" text-anchor="end" textLength="202.8" lengthAdjust="spacing">РАЗРАБОТКА ПОД КЛЮЧ</text>
+<circle cx="1055" cy="430" r="110" stroke="#262A32" stroke-width="1.6"/>
+<circle cx="1055" cy="430" r="172" stroke="#7D8490" stroke-opacity=".4" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="0 10"/>
+<path d="M914.06 334.94L945 430M1181.83 267.67L1055 320M1219.95 471.13L1165 430M981.58 611.73L1055 606M914.06 334.94L981.58 611.73M1181.83 267.67L1219.95 471.13" stroke="#FFFFFF" stroke-opacity=".08" stroke-width="1.4"/>
+<circle cx="914.06" cy="334.94" r="4.5" fill="#7D8490"/><circle cx="1181.83" cy="267.67" r="6" fill="#8B7BFF"/><circle cx="1219.95" cy="471.13" r="4.5" fill="#7D8490"/><circle cx="981.58" cy="611.73" r="4.5" fill="#6CA6FF"/>
+<circle cx="1055" cy="430" r="46" fill="#8B7BFF" opacity=".5" filter="url(#soft)"/>
+<g><path d="M1055 386L1055 320M1011 430L945 430M1099 430L1165 430M1055 474L1055 606" stroke="#F0F2F5" stroke-width="6.16"/><path d="M1055 408L1077 430L1055 452L1033 430Z" fill="url(#core)"/><path d="M1055 310.76L1064.24 320L1055 329.24L1045.76 320ZM945 420.76L954.24 430L945 439.24L935.76 430ZM1165 420.76L1174.24 430L1165 439.24L1155.76 430ZM1055 596.76L1064.24 606L1055 615.24L1045.76 606Z" fill="#F0F2F5"/></g>
 
-<text x="72" y="258" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="84" font-weight="700" letter-spacing="-1" fill="#F0F2F5">TELEGRAM-БОТ</text>
-<text x="76" y="316" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="24" fill="#F0F2F5" textLength="469.8" lengthAdjust="spacing">ИИ<tspan fill="#8B7BFF"> · </tspan>API<tspan fill="#8B7BFF"> · </tspan>АВТОМАТИЗАЦИЯ</text>
+<g><path d="M84 87.2L84 74M75.2 96L62 96M92.8 96L106 96M84 104.8L84 131.2" stroke="#7D8490" stroke-width="2.6"/><path d="M84 91.6L88.4 96L84 100.4L79.6 96Z" fill="#8B7BFF"/></g>
+<text x="132" y="106" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="23" fill="#7D8490" textLength="375" lengthAdjust="spacing">JW3 — TELEGRAM SYSTEMS</text>
 
-<path d="M72 372H700" stroke="#1A1D23"/>
-<path d="M77 415L82 420L77 425L72 420Z" fill="#8B7BFF"/><text x="100" y="427" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#7D8490">Сценарии, диалоги, админ-панель</text><path d="M77 465L82 470L77 475L72 470Z" fill="#8B7BFF"/><text x="100" y="477" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#7D8490">Интеграции: API, платежи, CRM</text><path d="M77 515L82 520L77 525L72 520Z" fill="#8B7BFF"/><text x="100" y="527" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#F0F2F5">ИИ-ответы: OpenAI, Claude, локальные модели</text><path d="M77 565L82 570L77 575L72 570Z" fill="#8B7BFF"/><text x="100" y="577" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#7D8490">Хостинг, мониторинг, работа 24/7</text>
+<text x="72" y="312" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="128" font-weight="700" letter-spacing="-2" fill="#F0F2F5">TELEGRAM-БОТ</text>
+<text x="76" y="388" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="38" fill="#F0F2F5" textLength="708.2" lengthAdjust="spacing">ИИ<tspan fill="#8B7BFF"> · </tspan>API<tspan fill="#8B7BFF"> · </tspan>АВТОМАТИЗАЦИЯ</text>
 
+<path d="M72 452H820" stroke="#1A1D23" stroke-width="1.6"/>
+<path d="M82 513L91 522L82 531L73 522Z" fill="#8B7BFF"/><text x="116" y="534" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" fill="#7D8490">Сценарии, интеграции, платежи</text><path d="M82 585L91 594L82 603L73 594Z" fill="#8B7BFF"/><text x="116" y="606" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" fill="#F0F2F5">ИИ-ответы: OpenAI, Claude</text><path d="M82 657L91 666L82 675L73 666Z" fill="#8B7BFF"/><text x="116" y="678" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" fill="#7D8490">Хостинг и работа 24/7</text>
 
-<rect x="870.5" y="150.5" width="219" height="71" rx="12" fill="#0B0D10" stroke="#262A32" stroke-opacity="1"/>
-<text x="980" y="183" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="600" fill="#F0F2F5" text-anchor="middle" textLength="83.2" lengthAdjust="spacing">TELEGRAM</text>
-<text x="980" y="205" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#7D8490" text-anchor="middle" textLength="146.6" lengthAdjust="spacing">Bot API · Mini App</text>
-<path d="M980 222V300" stroke="#262A32" stroke-width="1.4"/><path d="M980 257.6L983.4 261L980 264.4L976.6 261Z" fill="#8B7BFF"/>
-<circle cx="980" cy="338" r="90" fill="#8B7BFF" opacity=".35" filter="url(#soft)"/>
-
-<rect x="850.5" y="300.5" width="259" height="75" rx="12" fill="#101216" stroke="#8B7BFF" stroke-opacity="0.55"/>
-<text x="980" y="335" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="600" fill="#F0F2F5" text-anchor="middle" textLength="115" lengthAdjust="spacing">BOT RUNTIME</text>
-<text x="980" y="357" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#7D8490" text-anchor="middle" textLength="130.2" lengthAdjust="spacing">aiogram · grammY</text>
-<path d="M980 376V424M800 424H1160M800 424V470M980 424V470M1160 424V470" stroke="#262A32" stroke-width="1.4"/>
-<path d="M800 443.6L803.4 447L800 450.4L796.6 447Z" fill="#8B7BFF"/><path d="M980 443.6L983.4 447L980 450.4L976.6 447Z" fill="#8B7BFF"/><path d="M1160 443.6L1163.4 447L1160 450.4L1156.6 447Z" fill="#8B7BFF"/>
-
-<rect x="725.5" y="470.5" width="149" height="71" rx="12" fill="#0B0D10" stroke="#262A32" stroke-opacity="1"/>
-<text x="800" y="503" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="600" fill="#F0F2F5" text-anchor="middle" textLength="19.6" lengthAdjust="spacing">ИИ</text>
-<text x="800" y="525" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#7D8490" text-anchor="middle" textLength="122" lengthAdjust="spacing">OpenAI · Claude</text>
-
-<rect x="905.5" y="470.5" width="149" height="71" rx="12" fill="#0B0D10" stroke="#262A32" stroke-opacity="1"/>
-<text x="980" y="503" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="600" fill="#F0F2F5" text-anchor="middle" textLength="93.8" lengthAdjust="spacing">API / CRM</text>
-<text x="980" y="525" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#7D8490" text-anchor="middle" textLength="122" lengthAdjust="spacing">вебхуки, оплата</text>
-
-<rect x="1085.5" y="470.5" width="149" height="71" rx="12" fill="#0B0D10" stroke="#262A32" stroke-opacity="1"/>
-<text x="1160" y="503" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="600" fill="#F0F2F5" text-anchor="middle" textLength="62" lengthAdjust="spacing">ДАННЫЕ</text>
-<text x="1160" y="525" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#7D8490" text-anchor="middle" textLength="130.2" lengthAdjust="spacing">Postgres · Redis</text>
-<text x="980" y="600" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#7D8490" text-anchor="middle" textLength="201.6" lengthAdjust="spacing">24/7 · ЛОГИ · АЛЕРТЫ</text>
-
-<path d="M100 676H1220" stroke="#262A32"/>
-<path d="M150 671L155 676L150 681L145 676Z" fill="#8B7BFF"/><text x="150" y="712" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#7D8490" text-anchor="middle" textLength="127.8" lengthAdjust="spacing">ТЗ И СЦЕНАРИЙ</text><path d="M500 671L505 676L500 681L495 676Z" fill="#8B7BFF"/><text x="500" y="712" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#7D8490" text-anchor="middle" textLength="77.8" lengthAdjust="spacing">ПРОТОТИП</text><path d="M850 671L855 676L850 681L845 676Z" fill="#8B7BFF"/><text x="850" y="712" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#7D8490" text-anchor="middle" textLength="57.8" lengthAdjust="spacing">ЗАПУСК</text><path d="M1180 671L1185 676L1180 681L1175 676Z" fill="#8B7BFF"/><text x="1180" y="712" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#7D8490" text-anchor="middle" textLength="87.8" lengthAdjust="spacing">ПОДДЕРЖКА</text>
-
-<path d="M72 762H1248" stroke="#1A1D23"/>
-<text x="72" y="812" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#7D8490" textLength="589" lengthAdjust="spacing">PYTHON · AIOGRAM · TYPESCRIPT · POSTGRESQL · REDIS · DOCKER</text>
-<g><path d="M1112 801.2L1112 794M1107.2 806L1100 806M1116.8 806L1124 806M1112 810.8L1112 825.2" stroke="#7D8490" stroke-width="1.5"/><path d="M1112 803.6L1114.4 806L1112 808.4L1109.6 806Z" fill="#8B7BFF"/></g>
-<text x="1248" y="812" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#7D8490" text-anchor="end" textLength="108" lengthAdjust="spacing">JESUS WEB3</text>
+<path d="M72 756H1248" stroke="#1A1D23" stroke-width="1.6"/>
+<text x="72" y="822" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="24" fill="#7D8490" textLength="606.4" lengthAdjust="spacing">PYTHON · AIOGRAM · TYPESCRIPT · DOCKER</text>
+<g><path d="M1036 806L1036 794M1028 814L1016 814M1044 814L1056 814M1036 822L1036 846" stroke="#7D8490" stroke-width="2.4"/><path d="M1036 810L1040 814L1036 818L1032 814Z" fill="#8B7BFF"/></g>
+<text x="1248" y="822" font-family="ui-monospace, SFMono-Regular, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="24" fill="#7D8490" text-anchor="end" textLength="171" lengthAdjust="spacing">JESUS WEB3</text>
 </svg>
