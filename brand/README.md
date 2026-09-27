@@ -11,5 +11,6 @@ Regenerate with `node tools/build-brand.mjs` (SVG is the source, PNG is the expo
 | `fl-cover.png` | 1940×400 | fl.ru profile cover, desktop. Identity on the left, the four things to hire for on the right. |
 | `fl-cover-mobile.png` | 900×300 | fl.ru profile cover, mobile. Same message, one centred column. |
 | `fl-work-locus.png` | 1200×1200 | fl.ru portfolio item cover for LOCUS (1:1, as the upload form asks). |
+| `fl-kwork-telegram-bot.png` | 1320×880 | fl.ru kwork cover — Telegram bots with AI, API and automation (3:2, min 660×440). |
 
 GitHub personal profiles have no banner image; the profile hero lives in `../assets/hero.svg`.
