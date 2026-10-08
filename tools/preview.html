@@ -1,0 +1,24 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>Jesus Web3 — README preview</title>
+<base href="../">
+<style>
+  body { margin: 0; background: #0d1117; color: #e6edf3; font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .box { width: 854px; max-width: calc(100% - 32px); margin: 24px auto; padding: 24px; border: 1px solid #30363d; border-radius: 6px; }
+  .box p { margin: 0 0 16px; }
+  .box img { max-width: 100%; }
+  .err { color: #f85149; font-family: ui-monospace, Consolas, monospace; }
+</style>
+<div class="box" id="readme">loading…</div>
+<script>
+  // Renders the real README.md (it is plain HTML) at GitHub's profile width.
+  // Serve the repo root over http, e.g.  python -m http.server 8765
+  fetch('README.md', { cache: 'no-store' })
+    .then((r) => (r.ok ? r.text() : Promise.reject(new Error(r.status))))
+    .then((md) => { document.getElementById('readme').innerHTML = md; })
+    .catch((e) => {
+      document.getElementById('readme').innerHTML =
+        '<p class="err">Could not load README.md (' + e.message + '). Serve the repo root over http, then open /tools/preview.html</p>';
+    });
+</script>
